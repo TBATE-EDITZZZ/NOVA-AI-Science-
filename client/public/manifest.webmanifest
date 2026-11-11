@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "NOVA — Explore Beyond What You Know",
+  "short_name": "NOVA",
+  "description": "An interactive science platform for learning, research and discovery.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090b14",
+  "theme_color": "#090b14",
+  "orientation": "any",
+  "icons": [
+    { "src": "/nova-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
